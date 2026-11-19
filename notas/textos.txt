@@ -1,0 +1,80 @@
+O Fluxo do Desenvolvimento Moderno
+Dominando Z-index
+Aprenda o poder do posicionamento e empilhamento de elementos.
+Camada Inferior
+Esta camada está na camada mais baixa (z-index: 0).
+NAVEGAÇÃO
+Metodologias
+Frameworks ágeis & práticas técnicas
+Scrum
+Extreme Programming
+BDD
+TDD
+AÇÃO
+Começar Quiz
+Aprenda na prática
+Domine as metodologias modernas de desenvolvimento de software com exemplos reais e exercícios práticos.
+1 
+1. Planejamento Ágil (Scrum)
+Estruturando o caos em iterações curtas e valiosas. O Scrum é um framework ágil iterativo e incremental para o gerenciamento de projetos e desenvolvimento de produtos. Ele foca na entrega de valor constante através de ciclos curtos de trabalho (Sprints), promovendo a adaptação e a colaboração contínua da equipe.
+Product Backlog
+A lista priorizada de tudo que pode ser necessário no produto.
+Sprint (1–4 semanas)
+Ciclo de trabalho focado em entregar um incremento “Pronto”.
+Daily Scrum
+Inspeção diária de 15 minutos para sincronizar atividades.
+2
+2. Engenharia Extrema (XP)
+Práticas técnicas rigorosas para código de alta qualidade. O Extreme Programming (XP) é uma metodologia ágil focada em melhorar a qualidade do software e a capacidade de resposta a requisitos em mudança. Ele enfatiza a excelência técnica com práticas como programação em par, desenvolvimento guiado por testes (TDD) e integração contínua. Enquanto o Scrum gerencia o processo, o XP foca em como o código é escrito. Ele prega que o custo de mudança no software não precisa aumentar drasticamente com o tempo se aplicarmos práticas contínuas de excelência técnica.
+3
+3. Behavior-Driven Development (BDD)
+Construindo o software certo baseado no comportamento. O BDD (Desenvolvimento Guiado por Comportamento) é uma técnica ágil de desenvolvimento de software que encoraja a colaboração entre desenvolvedores, QA e pessoas não-técnicas (como negócios). Ele usa linguagem natural para descrever o comportamento esperado do sistema antes de ser desenvolvido.
+Funcionalidade: Login de usuário
+Cenário: Login com sucesso
+Dado que o usuário está na página de login
+Quando ele insere credenciais válidas
+Então ele deve ser redirecionado para o dashboard
+4
+4. Test-Driven Development (TDD)
+Construindo o software certo, da maneira certa.
+O TDD (Desenvolvimento Guiado por Testes) é uma prática de engenharia de software onde os testes automatizados são escritos antes do código de produção. O ciclo fundamental é: escrever um teste que falha, escrever o código mínimo para o teste passar, e então refatorar.
+1. Red Escreva um teste que falha.
+2. Green Faça o teste passar.
+3. Refactor Melhore o código.
+5
+5. Métricas e Benefícios da Adoção
+Uma tabela HTML para apresentar dados de forma estruturada.
+Exemplo didático de indicadores
+Métrica
+Sem Metodologias
+Com Metodologias
+Melhoria
+Taxa de Entrega
+45%
+92%
+104%
+Defeitos em Produção
+28%
+5%
+82%
+Satisfação do Cliente
+65%
+96%
+48%
+Tempo de Resposta
+14 dias
+3 dias
+79%
+6
+6. Dúvidas Frequentes
+Elementos nativos do HTML para interação sem JavaScript.
+Qual a diferença entre Scrum e XP?
+Scrum foca na gestão do projeto, priorização e ritmo de trabalho. XP foca em práticas técnicas de engenharia.
+Posso usar BDD sem TDD?
+Sim. BDD foca no comportamento e na comunicação com o negócio, enquanto TDD é uma prática de desenvolvimento em baixo nível.
+O que é o “incremento” no Scrum?
+É o conjunto de itens concluídos durante uma Sprint que atende à definição de pronto.
+7
+7. Fale Conosco
+
+Plataforma educacional para desenvolvedores que querem dominar as metodologias modernas de desenvolvimento de software.
